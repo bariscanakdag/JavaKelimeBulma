@@ -1,0 +1,2 @@
+Uyguluma bir text dosyasýndaki aradýðýnýz kelimeleri bulmanýzý saðlar.Aradýðýnýz kelime yoksa benzer kelimeleri aramaya baþlar var ise size bildirir.
+Örneðin aramak istediðiniz kelime baris.baris var ise ise bildirir.Yoksa aris,bris,bais,bari,abris,brais,barsi ... kelimelerini arar var ise size bildirir.
